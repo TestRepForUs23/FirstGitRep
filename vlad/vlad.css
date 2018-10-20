@@ -1,0 +1,42 @@
+#V_DivHeader{
+	background-color:#f00;
+	font-weight: bold;
+	font-style: italic;
+
+}
+#V_Block1
+{
+
+	height:50px;
+	width:20%;
+background-color:#ff0;	
+float:left;
+}
+#V_Block2
+{
+	height:50px;
+	width:20%;
+background-color:#0ff;	
+float:left;
+}
+#V_Block3
+{
+	height:50px;
+	width:20%;
+background-color:#f0f;	
+float:left;
+}
+#V_BlockParent
+{
+	width: 100%;
+
+
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    align-content: center; 
+    justify-content: center; 
+    overflow: auto;   
+
+}
