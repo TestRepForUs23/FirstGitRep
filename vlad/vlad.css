@@ -2,33 +2,32 @@
 	background-color:#f00;
 	font-weight: bold;
 	font-style: italic;
-
 }
 #V_Block1
 {
-
 	height:50px;
-	width:20%;
+	width:160px;
 background-color:#ff0;	
 float:left;
 }
 #V_Block2
 {
 	height:50px;
-	width:20%;
+	width:160px;
 background-color:#0ff;	
 float:left;
 }
 #V_Block3
 {
 	height:50px;
-	width:20%;
+	width:160px;
 background-color:#f0f;	
 float:left;
 }
 #V_BlockParent
 {
-	width: 100%;
+	background-color: #ddd;
+width: 100%;
 
 
     top: 0;
@@ -38,5 +37,4 @@ float:left;
     align-content: center; 
     justify-content: center; 
     overflow: auto;   
-
 }

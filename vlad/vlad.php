@@ -10,7 +10,7 @@
 	<div id="V_DivHeader">
 	<p align="center"><font size=72px>Привет, это сайт Влада</font></p>
 	</div>
-	<div id="V_BlockParent">
+	<div align="center" id="V_BlockParent" >
 		<div id="V_Block1">
 			1 Block
 		</div>
@@ -21,5 +21,6 @@
 			3 Block
 		</div>
 	</div>
+
 </body>
 </html>
