@@ -1,32 +1,41 @@
+body{
+background:fixed 100% linear-gradient(to top left, #fdfdf2, #ffffff);
+
+	
+}
 #V_DivHeader{
-	background-color:#f00;
+	background-color:#fefefe;
 	font-weight: bold;
+	height:62px;
+	width:60%;
 	font-style: italic;
+	padding-bottom: 20px;
+	border:1px solid #eee;
 }
-#V_Block1
+.V_BattonBlock
 {
-	height:50px;
-	width:160px;
-background-color:#ff0;	
-float:left;
+	margin-left: 7px;
+	margin-right: 7px;
+	cursor:pointer;
+	padding-top:10px;
+	height:30px;
+	width:120px;
+	float:left;
+	
+border: 1px solid;
+border-radius: 10px;
+border-color:#999;
+background: linear-gradient(to top left, #f4f4f3, #ffffff);
 }
-#V_Block2
-{
-	height:50px;
-	width:160px;
-background-color:#0ff;	
-float:left;
+.V_BattonBlock:hover{
+	background: linear-gradient(to top, #fff, #fff);
+border-color:#444;
 }
-#V_Block3
-{
-	height:50px;
-	width:160px;
-background-color:#f0f;	
-float:left;
-}
+
 #V_BlockParent
 {
-	background-color: #ddd;
+margin-top:20px;
+
 width: 100%;
 
 
