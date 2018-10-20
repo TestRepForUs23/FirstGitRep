@@ -67,7 +67,7 @@ if($result)
     
     mysqli_close($link);-->
 
-<p ><h1 align=center>Це лабораторна робота №1.</h1></p>
+<p ><h1 align=center>Це лабораторна робота №1.!!!!!!!!!!!!!!</h1></p>
 <pre>
 	
        ||||
